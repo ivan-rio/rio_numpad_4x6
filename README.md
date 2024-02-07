@@ -9,5 +9,7 @@ EC11 Encoders ➡️ https://ali.ski/GsHWZW<br>
 WS2812B RGB LED Strip ➡️ https://ali.ski/AEGbkR<br>
 UL2468 24AWG Cable ➡️ https://ali.ski/01qiud
 <br>
+<br>
 <img src="https://cdn.thingiverse.com/assets/b7/1e/a2/c3/05/large_display_bb17abb7-8c28-49c1-9888-bbc3b2b492d7.jpg">
+<br>
 <img src="https://github.com/ivan-rio/rio_numpad_4x6/blob/main/pro_micro_pinout.jpg">
